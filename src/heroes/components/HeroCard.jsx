@@ -21,7 +21,7 @@ export const HeroCard = ({
 }) => {
 
 
-  const imgUrl = `/heroes/${id}.jpg`
+  const imgUrl = `Heroes-App/heroes/${id}.jpg`
 
 
 

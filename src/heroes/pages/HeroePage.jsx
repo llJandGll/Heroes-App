@@ -7,7 +7,7 @@ export const HeroePage = () => {
   const { id } = useParams()
   
 
-  const heroImg = `/heroes/${id}.jpg`
+  const heroImg = `Heroes-App/heroes/${id}.jpg`
 
   const heroById = getHeroById( id );
 
